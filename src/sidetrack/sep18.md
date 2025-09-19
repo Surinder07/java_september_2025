@@ -94,7 +94,7 @@ vi file1
 
 ## command to display the content of the file without opening the file
 cat filename
-to save the file 
+to save the file and exit 
 :wq - save and exit 
 :w - save only 
 :q - quit 
@@ -102,6 +102,22 @@ to save the file
 :x - save and exit 
 
 
+## directory 
+
+folter ==  directory 
+
+pwd - present working directory 
+cd - change directory 
+cd .. - go back to previous directory 
+
+cp - copy file 
+mv - rename 
+rm - remove file
+rmdir - remove directory
+
+rm -r - to delete dir with files inside
+
+,
 
 
 
