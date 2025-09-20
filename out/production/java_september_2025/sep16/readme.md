@@ -150,6 +150,24 @@ if(conditoin , either true or false) {
 
 
 
+## naming conventions 
+
+
+class - First Letter should be Uppercase 
+variable - first letter should be lowerCase 
+
+Camel casing 
+
+IAmLearningJavaInToronto - class
+
+
+
+
+
+
+
+
+
 
 
 
