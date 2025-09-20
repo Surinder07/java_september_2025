@@ -44,6 +44,40 @@ press 1 English :
 press 2 french 
 
 
+## Loops 
+
+1. while
+2. do- while 
+3. for loop 
+
+
+
+while(condition){
+
+//statement 
+
+}
+
+
+1. print numbers 1 to N
+2. print the sum of N numbers 
+
+N = 10 
+
+3. print sum of top N= 100 even numbers 
+and odd numbers 
+
+
+3. print the multiplcation table for N = 5
+5 * 1 = 5
+5 * 2 = 10
+5 * 3 = 15
+5 * 4 = 20
+5 * 5 = 25
+5 * 6 = 30
+.....
+5 * 10 = 50
+
 
 
 
