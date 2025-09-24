@@ -21,6 +21,12 @@ do{
 
 
 
+2. print the sum of N numbers
+
+N = 10 
+
+[with do while and for loop] 
+
 
 
 

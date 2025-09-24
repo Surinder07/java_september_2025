@@ -14,3 +14,5 @@ public class DoWhile {
 }
 
 // 3 attempt only , ATM pin, password
+//  // 2. print the sum of N numbers
+//        // 1 2 3 4 5  = 15
