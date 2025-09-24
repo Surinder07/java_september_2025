@@ -28,5 +28,12 @@ N = 10
 [with do while and for loop] 
 
 
+## calculator 
+1. addition 
+2. subtraction
+
+keep on asking the user,
+do you want to add more numbers or not. 
+
 
 
