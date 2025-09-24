@@ -68,7 +68,7 @@ N = 10
 and odd numbers 
 
 
-3. print the multiplcation table for N = 5
+4. print the multiplcation table for N = 5
 5 * 1 = 5
 5 * 2 = 10
 5 * 3 = 15
