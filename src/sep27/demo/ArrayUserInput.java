@@ -1,5 +1,6 @@
 package sep27.demo;
 
+
 import java.util.Scanner;
 
 public class ArrayUserInput {

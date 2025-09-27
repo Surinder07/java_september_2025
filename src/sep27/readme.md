@@ -55,7 +55,13 @@ Car -- Honda civic
   public 
 
 
+x = 10 
+y = 20
 
+after swapping 
+
+x = 20 
+y = 10 
 
 
 
