@@ -1,4 +1,4 @@
-package sep27;
+package sep27.methods;
 
 public class Computer {
 

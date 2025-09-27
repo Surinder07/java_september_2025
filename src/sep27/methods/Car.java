@@ -1,4 +1,4 @@
-package sep27;
+package sep27.methods;
 // create a class COmputer , methods, variables, and create an Object to call these methods.
 // int memory, String color,   surfInternet(),
 public class Car {

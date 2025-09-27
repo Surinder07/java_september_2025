@@ -1,8 +1,6 @@
-package sep27;
+package sep27.methods;
 
 public class Calculator {
-
-    int x = 10;// instance variable
 
     public int sum(int a, int b){  // local variables
         int sum = a + b;
@@ -13,4 +11,7 @@ public class Calculator {
         int sub = a - b;
         return sub;
     }
+
+    // multiplication
+    // division
 }
