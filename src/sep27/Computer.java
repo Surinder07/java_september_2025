@@ -13,6 +13,5 @@ public class Computer {
     public void surfInternet(){
         System.out.println("Computer can be used to open google chrome.");
     }
-
-
 }
+// mobile
