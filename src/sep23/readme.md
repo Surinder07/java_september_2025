@@ -19,8 +19,6 @@ do{
 }while(condition);
 
 
-
-
 2. print the sum of N numbers
 
 N = 10 
