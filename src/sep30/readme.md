@@ -37,6 +37,57 @@ how to loop over array ?
 how to for each loop? 
 
 
+## Home take assignment
+1. given an array int[] arr = {10,23,234,343,34};
+find the max/ min number from the array
+2. sort the given array in ascending order 
+3. sum of elements in the array 
+4. find all the event and odd numbers in array. 
+
+
+
+## Constructor 
+
+1. special kind of method 
+which is used to intialize the object 
+
+2. which does not have a return type , not even void 
+3. same name as class name 
+
+types 
+1. default constructor , no parameters 
+
+
+2. parameterized constructor
+
+
+## java code compile - next session
+.class  byte code 
+heap and stack memory 
+static 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
