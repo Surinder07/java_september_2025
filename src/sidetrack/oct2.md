@@ -50,6 +50,68 @@ change permissions numbers
 7 - all permissions
 
 chmod 100 file
+                                Pragra[directory]
+1. create a directory 
+
+
+
+
+
+                Java.txt        Python.exe         Javascript.md 
+Java.txt -owner permision - read and write , rest no permision 
+Pyhton.exe -owner permision - read and write execute , rest read only
+javscript  - all of them should have read only permission 
+
+
+
+## Grep Command 
+globally search for a regular expression
+
+grep -v pattern file.txt
+
+example
+
+grep -v Node.js book.txt
+
+## sort 
+
+sort fileName
+
+1. 
+create a file, add some data and then search for the pattern 
+
+## Shell scripting 
+
+chmod +x fileName
+ ./file_name.sh
+
+## example 
+
+#!/bin/bash
+my_variable="Hello I am learning Java !"
+echo "$my_variable"
+
+## Problem statement
+
+Hello My name is {name}, I am from {city}. 
+I am currently learning {language}
+
+
+
+#!/bin/bash
+name="Chetan"
+city=-"Brampton"
+lang="Java"
+echo "Hello My name is $name, I am from $city.
+I am currently learning $lang"
+~
+
+
+
+
+
+
+
 
 
 
