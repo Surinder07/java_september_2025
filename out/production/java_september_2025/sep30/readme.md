@@ -61,6 +61,12 @@ types
 2. parameterized constructor
 
 
+## java code compile - next session
+.class  byte code 
+heap and stack memory 
+static 
+
+
 
 
 
