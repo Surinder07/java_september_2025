@@ -1,15 +1,11 @@
 package oct4.test;
 
-import java.util.Scanner;
-
 public class Mobile {
 
     // constructor
     Mobile(){
         System.out.println("Inside default constructor...");
     }
-
-
 
     // static method
     public static void text(){
@@ -31,5 +27,4 @@ public class Mobile {
     {
         System.out.println("Instance block");
     }
-
 }
