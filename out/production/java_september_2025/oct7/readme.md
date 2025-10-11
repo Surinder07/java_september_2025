@@ -99,6 +99,24 @@ https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-
 
 
 ## String methods 
+https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+
+
+## Problem 
+
+given a string 
+String city = "Toronto";
+
+1. reverse the string
+2. check the given string is palindrome 
+
+madam   ----> madam
+racecar  -----> racecar
+
+
+NOTE : presentation topics 
+
+
 
 
 
