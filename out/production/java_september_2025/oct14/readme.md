@@ -39,9 +39,12 @@ a method which behaves differently based on the context
 1. Compile time polymorphism : Method Overloading  : static 
 2. Runtime polymorphism      : Method Overriding   : Dynamic  
 
-### Method Overloading
+### Method Overloading [compile time]
 method with same name but diff parameters 
 
+
+
+## Method Overriding [Runtime ] [inheritance]
 
 
 
