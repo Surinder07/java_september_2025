@@ -1,0 +1,93 @@
+## readme 
+
+
+static keyword 
+1. variable 
+2. method 
+3. class [later- inner classes ]
+4. block 
+
+Arrays
+int[] arr = new int[5];
+reverse array 
+find max in array 
+for each loop in array 
+
+for(type var : obj){
+sout(var)
+}
+
+Strings
+sequence of characters
+reverse a string 
+String vs stringbuilder vs stringbuffer
+
+
+class and Object 
+-- new 
+
+
+Constructor 
+1. default 
+2. parameterized 
+
+this - to refer the current/instance variable of the class
+this(100); - can be used in constructor chaining 
+
+
+methods 
+set of block of statements to perform a specific task 
+behaviour
+
+
+S - Single responsibility
+O
+L
+I
+D 
+
+
+Garbage collection 
+
+
+## OOPS 
+1. Inheritance
+
+
+A  : Super class / Parent / Base Class 
+|
+B  : Sub class / Child / Derived class 
+
+
+code resuability 
+
+2. Polymorphism 
+
+static                           dynamic
+method overloading               method overriding 
+
+
+
+Data hiding 
+3. Encapsulation 
+
+
+
+## Access Modifiers
+private 
+public 
+default 
+protected
+
+
+
+
+
+
+
+
+
+
+
+
+
