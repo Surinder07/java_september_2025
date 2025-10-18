@@ -2,6 +2,7 @@ package oct18.absraction;
 
 public abstract class Mobile {
 
+
     public abstract void call();
     public abstract void messages();
 
@@ -9,3 +10,9 @@ public abstract class Mobile {
         System.out.println("internet surfing can be done using this ");
     }
 }
+
+/*
+      Computer [abstract]
+    |       |           |
+Dell        HP          Apple
+ */
