@@ -80,6 +80,25 @@ default
 protected
 
 
+## Problem statement 
+
+create a class named as 
+FileDemo
+
+boolean isReadable;
+boolean isWritable;
+
+isReadable()
+isWritable()
+
+1. ReadOnly  : FileDemoRead
+2. WriteOnly  : FileDemoWrite 
+3. Both 
+
+
+
+
+
 
 
 
