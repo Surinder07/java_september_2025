@@ -80,6 +80,50 @@ default
 protected
 
 
+## Problem statement 
+
+create a class named as 
+FileDemo
+
+boolean isReadable;
+boolean isWritable;
+
+isReadable()
+isWritable()
+
+1. ReadOnly  : FileDemoRead
+2. WriteOnly  : FileDemoWrite 
+3. Both 
+
+
+
+
+## Abtraction 
+hide complex details from the user 
+abstract 
+
+1. using abstract class  [0-100%]
+2. interfaces [100%]
+
+
+
+How to make a class abstract 
+1. using keyword abstract 
+
+
+you cannot create object of abstract class 
+may or may not have abstract methods 
+abstract methods does not have body 
+
+
+
+
+
+
+
+
+
+
 
 
 

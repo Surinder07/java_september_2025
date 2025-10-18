@@ -98,6 +98,31 @@ isWritable()
 
 
 
+## Abtraction 
+hide complex details from the user 
+abstract 
+
+1. using abstract class  [0-100%]
+2. interfaces [100%]
+
+
+
+How to make a class abstract 
+1. using keyword abstract 
+
+
+you cannot create object of abstract class 
+may or may not have abstract methods 
+abstract methods does not have body 
+
+
+
+
+
+
+
+
+
 
 
 
