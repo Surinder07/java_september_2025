@@ -2,7 +2,6 @@ package oct18.absraction;
 
 public abstract class Mobile {
 
-
     public abstract void call();
     public abstract void messages();
 
