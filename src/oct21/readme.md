@@ -23,6 +23,19 @@ it can be instantiated, i.e you cannot create object of abstract class
 
 
 
-2. interfaces
+Problem 
+1. Bank of canada prime rate : 4.70%,
+    prime + base 
+  4.70 + 1.99 = 
+
+scotia 
+4.70 + 0.99 
+
+TD 
+4.70 + 2.99 
+
+PragraBank 
+4.70 + .50
+
 
 
