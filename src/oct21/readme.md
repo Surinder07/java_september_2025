@@ -38,4 +38,64 @@ PragraBank
 4.70 + .50
 
 
+## super 
+refer to the parent class variable and method also 
+
+## final 
+1. variable 
+it makes the variable constant 
+ final int x = 10;
+x = 20; // this is wrong  
+
+2. method as final 
+
+// this method cannot be overriden
+public final void test(){
+
+}
+
+3. used for a class
+you cannot inherit from that class 
+
+
+
+
+
+
+## interfaces 
+
+its a contract a class have to implement from where it inherits
+
+
+    A 
+    |
+    B   
+
+interface A {
+
+// contract
+// all the  methods in the interface are by default abstract 
+
+}
+class B implements A {
+
+// should fulfill all the contract given by class A 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
