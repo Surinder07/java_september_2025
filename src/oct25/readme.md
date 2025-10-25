@@ -10,3 +10,13 @@ it contains abstract method, which may or may not present
 class must be abstract if it has a abstract method 
 
 }
+
+
+## interfaces?
+
+1. all variables must be 
+public static final 
+2. all methods must be 
+public and abstract
+
+can we have a constructor in interface 
