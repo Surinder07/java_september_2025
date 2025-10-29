@@ -20,3 +20,34 @@ public static final
 public and abstract
 
 can we have a constructor in interface 
+
+
+
+## Problem 
+                                        Communcation ---- TraditionalMedia  [CNN, FoxNews]
+
+
+                                                Media
+                             SocialMedia                                        
+                 |                                              |   
+    PersonalMedia                                               ProfessionalMedia   -- InternalProfessionalMedia[MicrosoftTeam, Slack, Zoom , Google Meet ]
+    |               |                   |           |                       |
+FaceBook            Instagram       Snapchat        TikTok              LinkedIn
+Whatsapp
+
+test
+test at Oct 25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
