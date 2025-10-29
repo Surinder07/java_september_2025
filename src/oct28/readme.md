@@ -45,6 +45,19 @@ How to handle exception ?
 try, catch , throw , throws , finally 
 
 
+## create an array of size 5 and try to add 6 elements.
+
+## finally 
+always execute 
+
+throw vs throws
+custom exceptions
+inner classes 
+Generics 
+Collections
+
+
+
 
 
 

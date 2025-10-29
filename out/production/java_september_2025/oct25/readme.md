@@ -35,8 +35,6 @@ can we have a constructor in interface
 FaceBook            Instagram       Snapchat        TikTok              LinkedIn
 Whatsapp
 
-test
-test at Oct 25
 
 
 
