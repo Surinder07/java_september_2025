@@ -50,7 +50,11 @@ try, catch , throw , throws , finally
 ## finally 
 always execute 
 
-
+throw vs throws
+custom exceptions
+inner classes 
+Generics 
+Collections
 
 
 
