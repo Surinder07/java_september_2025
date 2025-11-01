@@ -1,17 +1,18 @@
 package nov1.customexception;
 
 public class Bank {
-    double balance;
+    double balance; // 1000
+    double accountNumber;
 
     public Bank(double balance) {
         this.balance = balance;
     }
 
-    public double getBalance(){
+    public double getBalance() {
         return balance;
     }
 
-    public double withdraw(double amount){
+    public double withdraw(double amount) {
         if(balance < amount) {
             throw new InsufficientBalanceException("Insufficient Balance ");
         }
@@ -19,7 +20,7 @@ public class Bank {
         return balance;
     }
 
-    public double deposit(double amount){
+    public double deposit(double amount) {
         balance = balance + amount;
         return balance;
     }
