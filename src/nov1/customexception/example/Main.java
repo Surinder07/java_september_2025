@@ -16,10 +16,8 @@ public class Main {
         //  user 1
         onlineWebApp.ecomApp(email, userName, PaymentMethod.CREDIT_CARD);
 
-
         // user 2
         onlineWebApp.ecomApp(email, userName, PaymentMethod.MASTER_CARD);
-
 
         // password, paymentMethod, phoneNumber
         System.out.println("browse more..");

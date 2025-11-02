@@ -3,20 +3,9 @@ package nov1;
 public class Test {
     public static void main(String[] args) {
 
-        String s1 = "Pragra";
-        s1 = null;
-        try {
-            String lowerCase = s1.toLowerCase();
-            //System.out.println("Hello");
-            System.out.println(lowerCase);
+        float x = 10;
 
-
-        }
-
-        finally {
-            System.out.println("hello");
-        }
-
+        int y = (int)x;
 
     }
 }
