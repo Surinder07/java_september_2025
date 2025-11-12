@@ -29,6 +29,21 @@ unordered collection
 
 
 
+## Problem statement
+List<Integer> list = Arrays.asList(10, 23, 434, 53, 6, 343, 534, 64, 43, 23, 53);
+
+Given array list : [10,23,434,53,6,343,534,64,43,23, 53]
+1. remove duplicates from the given array list
+ 
+
+
+2. create a list of Employees 
+ with name, email, and phone
+remove duplicates employees from the list 
+
+
+
+
 
 
 
