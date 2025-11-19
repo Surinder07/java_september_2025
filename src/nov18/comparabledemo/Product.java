@@ -1,4 +1,4 @@
-package nov18;
+package nov18.comparabledemo;
 
 public class Product implements Comparable<Product> {
     private String id;
@@ -57,7 +57,7 @@ public class Product implements Comparable<Product> {
 
     @Override
     public int compareTo(Product other) {
-        return Double.compare(other.price, this.price);
+        return this.brand.compareTo(other.brand);
     }
 }
 /*
